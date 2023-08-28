@@ -40,3 +40,5 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 ### Diagrama de Caso de Uso:
 ![compra_produto drawio](https://github.com/LucasHCOliveira7/bertoti/assets/81196630/033647dc-21bf-4510-808c-da2ff8fb5505)
 
+# Atividade 5
+### Diagrama de Classe UML:
