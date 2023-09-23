@@ -32,9 +32,48 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 # Atividade 3
 ### 10 Heurísticas de Usabilidade para Design de Interface de Usuário
+    https://www.nngroup.com/articles/ten-usability-heuristics/
+    
 ### Encontre um erro e um acerto de cada heurística:
+#### 1. <b> Visibilidade do Status do Sistema </b>
+    Erro: Não fornecer informações claras sobre a posição do usuário e as opções disponíveis dentro do sistema, levando a uma experiência confusa.
+    Acerto: Fornecer indicadores visuais intuitivos, como barras de progresso e menus organizados, para ajudar os usuários a entenderem sua posição e ações disponíveis, facilitando a navegação e a tomada de decisões.
+    
+#### 2. <b> Compatibilidade entre o sistema e o mundo real </b>
+    Erro: Não considerar a familiaridade cultural e linguística dos usuários, o que pode resultar em escolhas inadequadas de símbolos e metáforas na interface, tornando-a menos acessível.
+    Acerto: Adaptar a linguagem, símbolos e metáforas da interface para corresponder às expectativas e ao conhecimento dos usuários, facilitando a compreensão e a interação.
 
+#### 3. <b> Controle e liberdade para o usuário </b>
+    Erro: Não oferecer aos usuários a capacidade de desfazer ações ou retornar a um estado anterior, o que pode levar à frustração e à falta de confiança na interface.
+    Acerto: Implementar recursos de desfazer ações para dar aos usuários o controle e a liberdade de corrigir erros, proporcionando uma sensação de segurança e melhorando a usabilidade.
 
+#### 4. <b> Consistência e Padronização </b>
+    Erro: Manter uma consistência excessiva que limita a flexibilidade e a adaptabilidade da interface.
+    Acerto: Estabelecer uma base de consistência e padronização na interface, ao mesmo tempo permitindo flexibilidade quando necessário para atender a diferentes contextos e necessidades específicas, equilibrando a familiaridade e a usabilidade.
+
+#### 5. <b> Prevenção de erros </b>
+    Erro: Dependência exclusiva da prevenção de erros, sem oferecer feedback quando os erros ocorrem, deixando os usuários confusos.
+    Acerto: Equilibrar a prevenção de erros com feedback eficaz quando os erros ocorrem, fornecendo medidas preventivas e instruções claras para ajudar os usuários a entender e corrigir os problemas. Isso resulta em uma experiência mais satisfatória.
+
+#### 6. <b> Reconhecimento em vez de memorização </b>
+    Erro: Sobrecarregar a interface com muitas dicas visuais, tornando-a confusa e desordenada.
+    Acerto: Encontrar um equilíbrio entre fornecer dicas visuais para que os usuários possam reconhecer padrões e elementos familiares na interface, sem exagerar e manter a interface clara e simples. Isso facilita a navegação e o uso da aplicação.
+
+#### 7. <b> Eficiência e flexibilidade de uso </b>
+    Erro: Focar exclusivamente nas necessidades de um grupo de usuários (leigos ou experientes) em detrimento do outro, o que pode levar a uma interface inadequada para um público mais amplo.
+    Acerto: Projetar uma interface flexível que atenda tanto aos iniciantes quanto aos usuários experientes, oferecendo uma experiência amigável e informativa para os primeiros e recursos avançados e atalhos para os últimos, proporcionando uma experiência eficaz e adaptável para todos.
+
+#### 8. <b> Estética e design minimalista </b>
+    Erro: Priorizar demais a estética e o minimalismo, sacrificando a usabilidade e removendo informações importantes, o que pode levar a uma experiência confusa para os usuários.
+    Acerto: Adotar um design minimalista que elimine informações desnecessárias, mantendo o foco nas informações essenciais, desde que isso não prejudique a usabilidade e a acessibilidade da interface. Isso ajuda a tornar a interface mais eficiente ao transmitir informações importantes de forma clara.
+
+#### 9. <b> Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros </b>
+    Erro: Fornecer mensagens de erro vagas e pouco informativas que não ajudam os usuários a entender o problema ou como corrigi-lo.
+    Acerto: Fornecer mensagens de erro claras e informativas que indicam o problema, destacam a localização do erro e oferecem orientações específicas sobre como corrigi-lo, facilitando a recuperação dos usuários após cometerem um erro.
+
+#### 10. <b> Ajuda e documentação </b>
+    Erro: Depender excessivamente da ajuda e documentação, tornando a interface pouco intuitiva e frustrante para os usuários que precisam constantemente da ajuda externa.
+    Acerto: Fornecer uma interface intuitiva e fácil de usar, com a ajuda e documentação disponíveis como recursos complementares para auxiliar os usuários quando necessário, permitindo que eles se tornem mais independentes na utilização do sistema.
 
 # Atividade 4
 ### Diagrama de Caso de Uso:
