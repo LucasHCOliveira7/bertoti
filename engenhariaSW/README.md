@@ -77,7 +77,7 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 # Atividade 4
 ### Diagrama de Caso de Uso:
-<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/033647dc-21bf-4510-808c-da2ff8fb5505" height="500" width="700">
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/1824230c-6b46-4f4a-9e8f-def0834c5f60" height="500" width="600">
 
 # Atividade 5
 ### Diagrama de Classe UML: (várias versões)
