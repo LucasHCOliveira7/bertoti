@@ -86,6 +86,7 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 # Atividade 6
 ### Código Java (espelhando as classes UML)
+Acesse [aqui](https://github.com/LucasHCOliveira7/bertoti/tree/main/engenhariaSW/DiagramaClasseUML/src/biblioteca) o código da classe Biblioteca
 
 # Atividade 7
 ### Testes JUNIT
