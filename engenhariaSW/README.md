@@ -60,20 +60,28 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 <img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/a4167218-e6f7-4ecb-8c7c-a932c7e09a50" width="500" heigth="400">
 
 #### 5. <b> Prevenção de erros </b>
-    Erro: Dependência exclusiva da prevenção de erros, sem oferecer feedback quando os erros ocorrem, deixando os usuários confusos.
-    Acerto: Equilibrar a prevenção de erros com feedback eficaz quando os erros ocorrem, fornecendo medidas preventivas e instruções claras para ajudar os usuários a entender e corrigir os problemas. Isso resulta em uma experiência mais satisfatória.
+    Erro: Não fornecer feedback ao usuário. Por exemplo, se um usuário tentar enviar um formulário sem preencher todos os campos obrigatórios, o design deve fornecer feedback claro e específico sobre quais campos precisam ser preenchidos.
+    Acerto: Fornecer opções de confirmação antes de se comprometer com uma ação. Por exemplo, se um usuário estiver prestes a excluir um arquivo ou mensagem, o design deve fornecer uma opção de confirmação para evitar erros de engano.
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/14a6da60-3ff9-4596-9cad-5a108084ae02" width="200" heigth="400">
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/d98867d0-41c1-4bb1-a790-0056196d3a9f" width="400" heigth="300">
 
 #### 6. <b> Reconhecimento em vez de memorização </b>
-    Erro: Sobrecarregar a interface com muitas dicas visuais, tornando-a confusa e desordenada.
-    Acerto: Encontrar um equilíbrio entre fornecer dicas visuais para que os usuários possam reconhecer padrões e elementos familiares na interface, sem exagerar e manter a interface clara e simples. Isso facilita a navegação e o uso da aplicação.
+    Erro: Lembrar o nome de usuário e senha para fazer login em um site. Para evitar esse erro, o design pode fornecer uma opção de “lembrar-me” para salvar as informações de login do usuário.
+    Acerto: Quando um usuário está navegando em um site de compras e as opções de filtro são claramente visíveis e fáceis de usar.
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/a699d178-683e-4451-8a65-6375ed41b278" width="400" heigth="300">
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/fe2db273-8837-4df5-9fb5-1a995ccf052a" width="500" heigth="400">
 
 #### 7. <b> Eficiência e flexibilidade de uso </b>
-    Erro: Focar exclusivamente nas necessidades de um grupo de usuários (leigos ou experientes) em detrimento do outro, o que pode levar a uma interface inadequada para um público mais amplo.
-    Acerto: Projetar uma interface flexível que atenda tanto aos iniciantes quanto aos usuários experientes, oferecendo uma experiência amigável e informativa para os primeiros e recursos avançados e atalhos para os últimos, proporcionando uma experiência eficaz e adaptável para todos.
+    Erro: Não fornecer opções de personalização para ações frequentes.  Por exemplo, um usuário pode personalizar as configurações de um aplicativo de e-mail para exibir apenas as mensagens mais importantes.
+    Acerto: Fornecer atalhos do teclado para usuários experientes. Por exemplo, se um usuário estiver usando uma IDE para programar e quiser usar um atalho para realizar determinada ação.
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/6b1f68c2-230e-4225-9087-8d20ff9ff4de" width="400" heigth="300">
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/96fbbde3-8bdb-483b-a17d-960fb9ded71a" width="500" heigth="400">
+
 
 #### 8. <b> Estética e design minimalista </b>
-    Erro: Priorizar demais a estética e o minimalismo, sacrificando a usabilidade e removendo informações importantes, o que pode levar a uma experiência confusa para os usuários.
-    Acerto: Adotar um design minimalista que elimine informações desnecessárias, mantendo o foco nas informações essenciais, desde que isso não prejudique a usabilidade e a acessibilidade da interface. Isso ajuda a tornar a interface mais eficiente ao transmitir informações importantes de forma clara.
+    Erro: Incluir informações irrelevantes ou raramente necessárias na interface. Por exemplo, um usuário navegando em um site de notícias e é apresentado com anúncios irrelevantes ou excessivos.
+    Acerto: Usuário usando um app como Microsoft Word, o design deve garantir que as ferramentas de edição, como negrito, itálico e sublinhado, sejam exibidas de forma clara e visível.
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/f662db4b-4f03-4426-af92-38a49874c859" width="500" heigth="400">
 
 #### 9. <b> Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros </b>
     Erro: Fornecer mensagens de erro vagas e pouco informativas que não ajudam os usuários a entender o problema ou como corrigi-lo.
