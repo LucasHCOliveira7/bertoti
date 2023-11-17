@@ -77,19 +77,22 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 <img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/6b1f68c2-230e-4225-9087-8d20ff9ff4de" width="400" heigth="300">
 <img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/96fbbde3-8bdb-483b-a17d-960fb9ded71a" width="500" heigth="400">
 
-
 #### 8. <b> Estética e design minimalista </b>
     Erro: Incluir informações irrelevantes ou raramente necessárias na interface. Por exemplo, um usuário navegando em um site de notícias e é apresentado com anúncios irrelevantes ou excessivos.
     Acerto: Usuário usando um app como Microsoft Word, o design deve garantir que as ferramentas de edição, como negrito, itálico e sublinhado, sejam exibidas de forma clara e visível.
 <img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/f662db4b-4f03-4426-af92-38a49874c859" width="500" heigth="400">
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/5b0888ee-5470-4716-8bb6-0c657cefe564" width="500" heigth="400">
 
 #### 9. <b> Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros </b>
-    Erro: Fornecer mensagens de erro vagas e pouco informativas que não ajudam os usuários a entender o problema ou como corrigi-lo.
-    Acerto: Fornecer mensagens de erro claras e informativas que indicam o problema, destacam a localização do erro e oferecem orientações específicas sobre como corrigi-lo, facilitando a recuperação dos usuários após cometerem um erro.
+    Erro: Não fornecer mensagens de erro claras e precisas. Por exemplo, quando o usuário tenta fazer login em um site com credenciais inválidas.
+    Acerto: Fornecer mensagens de erro claras e informativas que indicam o problema, destacam a localização do erro e oferecem orientações específicas sobre como corrigi-lo.
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/e7234159-926b-40fa-b42f-7aaf97453085" width="400" heigth="300">
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/e455c3f6-823c-4a2a-822b-874e9298ddf5" width="500" heigth="400">
 
 #### 10. <b> Ajuda e documentação </b>
-    Erro: Depender excessivamente da ajuda e documentação, tornando a interface pouco intuitiva e frustrante para os usuários que precisam constantemente da ajuda externa.
-    Acerto: Fornecer uma interface intuitiva e fácil de usar, com a ajuda e documentação disponíveis como recursos complementares para auxiliar os usuários quando necessário, permitindo que eles se tornem mais independentes na utilização do sistema.
+    Erro: Se o design do sistema for ruim, a ajuda não será capaz de substituí-lo. Portanto, é importante que o sistema de ajuda também seja bem projetado.
+    Acerto: Presença de uma documentação clara e maneiras de ajudar a utilizar determinado app.
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/e0ab65ef-412c-427a-a01b-7afa84ceb7a7" width="500" heigth="400">
 
 # Atividade 4
 ### Diagrama de Caso de Uso:
