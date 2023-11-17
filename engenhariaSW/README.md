@@ -36,20 +36,28 @@ Within Google, we sometimes say, “Software engineering is programming integrat
     
 ### Encontre um erro e um acerto de cada heurística:
 #### 1. <b> Visibilidade do Status do Sistema </b>
-    Erro: Não fornecer informações claras sobre a posição do usuário e as opções disponíveis dentro do sistema, levando a uma experiência confusa.
-    Acerto: Fornecer indicadores visuais intuitivos, como barras de progresso e menus organizados, para ajudar os usuários a entenderem sua posição e ações disponíveis, facilitando a navegação e a tomada de decisões.
-    
+    Erro: Um aplicativo de entrega de comida não fornece informações sobre o status do pedido depois que ele é feito.
+    Acerto: "rastreamento de entrega" em aplicativos de entrega, como o Uber Eats, Rappi ou iFood. O usuário pode ver se o pedido foi recebido, se está sendo preparado ou se saiu para entrega
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/277294e9-3091-4278-b1b5-1c47654bb37a" width="500" heigth="400">
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/e38e6733-147b-4577-9a06-b7d47961590d" width="200" heigth="400">
+
 #### 2. <b> Compatibilidade entre o sistema e o mundo real </b>
-    Erro: Não considerar a familiaridade cultural e linguística dos usuários, o que pode resultar em escolhas inadequadas de símbolos e metáforas na interface, tornando-a menos acessível.
-    Acerto: Adaptar a linguagem, símbolos e metáforas da interface para corresponder às expectativas e ao conhecimento dos usuários, facilitando a compreensão e a interação.
+    Erro: Aplicativo de edição de texto que usa ícones pouco intuitivos ou termos técnicos que não são familiares para os usuários comuns.
+    Acerto: Design do aplicativo Google Maps. Esse aplicativo usa ícones e símbolos que são compreendidos, como setas para indicar direções ou ícones de marcadores para representar locais.
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/9b3343a4-81a3-49ed-8cad-7b7f1932ab23" width="500" heigth="400">
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/5b1ba988-e15d-461f-be3e-033d65bd1024" width="400" heigth="300">
 
 #### 3. <b> Controle e liberdade para o usuário </b>
-    Erro: Não oferecer aos usuários a capacidade de desfazer ações ou retornar a um estado anterior, o que pode levar à frustração e à falta de confiança na interface.
-    Acerto: Implementar recursos de desfazer ações para dar aos usuários o controle e a liberdade de corrigir erros, proporcionando uma sensação de segurança e melhorando a usabilidade.
+    Erro: Aplicativo de formulário online que não oferece a opção de voltar ou corrigir informações antes de finalizar o envio.
+    Acerto: Plataforma de e-commerce, como a Amazon, que oferecem um processo de compra com etapas claras e a opção de revisar e editar o pedido antes de finalizá-lo.
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/7b65516e-8b61-4085-befb-d6e775c5695d" width="500" heigth="400">
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/d9200242-98e6-45f9-840a-8ede4394abe4" width="500" heigth="400">
 
 #### 4. <b> Consistência e Padronização </b>
-    Erro: Manter uma consistência excessiva que limita a flexibilidade e a adaptabilidade da interface.
-    Acerto: Estabelecer uma base de consistência e padronização na interface, ao mesmo tempo permitindo flexibilidade quando necessário para atender a diferentes contextos e necessidades específicas, equilibrando a familiaridade e a usabilidade.
+    Erro: Aplicativo de mensagens que usa símbolos diferentes para indicar a mesma ação em telas diferentes. Por exemplo, em uma tela de conversa, o ícone de "enviar" pode ser representado por um avião de papel, enquanto em outra parte do aplicativo, é representado por uma seta.
+    Acerto: Aplicativos de redes sociais, como o Facebook ou Instagram. Essas plataformas mantêm a consistência no uso de ícones, cores e design em todo o aplicativo.
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/465c9156-0857-438d-8ab2-e9a4bb5cff08" width="500" heigth="400">
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/a4167218-e6f7-4ecb-8c7c-a932c7e09a50" width="500" heigth="400">
 
 #### 5. <b> Prevenção de erros </b>
     Erro: Dependência exclusiva da prevenção de erros, sem oferecer feedback quando os erros ocorrem, deixando os usuários confusos.
@@ -78,7 +86,6 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 # Atividade 4
 ### Diagrama de Caso de Uso:
 <img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/58581a11-1e0c-4952-8971-131b231a62f0" height="500" width="600">
-
 
 # Atividade 5
 ### Diagrama de Classe UML:
