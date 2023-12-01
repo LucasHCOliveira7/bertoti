@@ -100,7 +100,7 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 # Atividade 5
 ### Diagrama de Classe UML:
-<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/121f1128-c352-44aa-a3c1-77d9660ac68a" height="450" width="1000">
+<img src="https://github.com/LucasHCOliveira7/bertoti/assets/81196630/38c5c966-9179-4a26-8f46-335bf5563512" height="450" width="1000">
 
 # Atividade 6
 ### Código Java (espelhando as classes UML)
