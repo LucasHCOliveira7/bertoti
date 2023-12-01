@@ -108,3 +108,4 @@ Acesse [aqui](https://github.com/LucasHCOliveira7/bertoti/tree/main/engenhariaSW
 
 # Atividade 7
 ### Testes JUNIT
+Acesse [aqui](https://github.com/LucasHCOliveira7/bertoti/blob/main/engenhariaSW/DiagramaClasseUML/src/biblioteca/Teste.java) o código dos testes JUnit
