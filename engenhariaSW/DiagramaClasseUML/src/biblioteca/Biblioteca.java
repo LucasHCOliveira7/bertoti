@@ -11,7 +11,11 @@ class Biblioteca {
     }
 
     public void adicionarLivro(Livro livro) {
-        livrosDisponiveis.add(livro);
+        if (!livrosDisponiveis.contains(livro)) {
+            livrosDisponiveis.add(livro);
+        } else {
+            System.out.println("Este livro já está na biblioteca.");
+        }
     }
 
     public void mostrarLivrosDisponiveis() {
@@ -37,4 +41,9 @@ class Biblioteca {
     public void devolverLivro(Livro livro) {
         livrosDisponiveis.add(livro);
     }
+    
+    public List<Livro> getLivro() {
+    	return this.livrosDisponiveis;
+    }
+    
 }

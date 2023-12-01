@@ -33,15 +33,19 @@ public class Principal {
         // Criar uma pessoa e interagir com a biblioteca
         Pessoa pessoa1 = new Pessoa("Lucas");
         pessoa1.pegarLivro(biblioteca, "O Hobbit");
-        pessoa1.pegarLivro(biblioteca, "A Revolução dos Bichos");
+        pessoa1.pegarLivro(biblioteca, "Harry Potter e a Pedra Filosofal");
         Pessoa pessoa2 = new Pessoa("Ana");
         pessoa2.pegarLivro(biblioteca, "O Pequeno Príncipe");
+        Pessoa pessoa3 = new Pessoa("João");
+        pessoa3.pegarLivro(biblioteca, "A Revolução dos Bichos");
+        pessoa3.pegarLivro(biblioteca, "Dom Quixote");
 
         // Mostrar livros disponíveis após o empréstimo
         biblioteca.mostrarLivrosDisponiveis();
 
         // Devolver o livro à biblioteca
         pessoa1.devolverLivro(biblioteca, livro2);
+        pessoa3.devolverLivro(biblioteca, livro7);
 
         // Mostrar livros disponíveis após a devolução
         biblioteca.mostrarLivrosDisponiveis();
