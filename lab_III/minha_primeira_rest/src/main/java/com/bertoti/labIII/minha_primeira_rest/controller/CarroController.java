@@ -7,11 +7,15 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.util.*;
 
 @RestController
 @RequestMapping("/carros")
+@CrossOrigin(origins = "http://127.0.0.1:5500")
 public class CarroController {
     private Map<String, Carro> carros = new HashMap<>();
 
@@ -60,6 +64,23 @@ public class CarroController {
     // }
     @PostMapping
     public ResponseEntity<ResponseCarro> postCarro(@RequestBody Carro carro) {
+        if (carro.getId() == null || carro.getId() <= 0) {
+            ResponseCarro responseCarro = new ResponseCarro(null, HttpStatus.BAD_REQUEST, "O ID do carro deve ser um número positivo");
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(responseCarro);
+        }
+        if (carro.getMarca() == null || carro.getMarca().isEmpty()) {
+            ResponseCarro responseCarro = new ResponseCarro(null, HttpStatus.BAD_REQUEST, "A marca do carro é obrigatória");
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(responseCarro);
+        }
+        if (carro.getModelo() == null || carro.getModelo().isEmpty()) {
+            ResponseCarro responseCarro = new ResponseCarro(null, HttpStatus.BAD_REQUEST, "O modelo do carro é obrigatório");
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(responseCarro);
+        }
+        if (carros.containsKey(carro.getId().toString())) {
+            ResponseCarro responseCarro = new ResponseCarro(null, HttpStatus.BAD_REQUEST, "O ID do carro já existe");
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(responseCarro);
+        }
+
         carros.put(carro.getId().toString(), carro);
         ResponseCarro responseCarro = new ResponseCarro(carro, HttpStatus.OK, "Carro adicionado com sucesso");
         return ResponseEntity.status(HttpStatus.OK).body(responseCarro);
