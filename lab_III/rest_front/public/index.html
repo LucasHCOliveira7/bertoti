@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../src/assets/style/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <title>Minha Primeira REST</title>
+</head>
+<body>
+    <header>
+        <h1>Minha Primeira REST</h1>
+    </header>
+    <nav>
+        <a href="#" id="adicionar-carro">Adicionar Carro</a>
+    </nav>
+    <div class="banner-left">
+        <img src="../src/assets/images/banner-left.jpg" alt="banner-left" class="imgBannerLeft">
+    </div>
+    <main>
+        <ul id="carros-lista"></ul>
+
+        <!-- Modal de Adicionar Carro -->
+        <dialog id="modal" class="modal">
+            <form class="modal-content">
+                <div class="alinhar">
+                    <span id="close" class="close">&times;</span>
+                    <h1>Adicionar Carro</h1>
+                </div>
+                <div class="camposInput">
+                    <div class="inputGroup">
+                        <input type="text" id="marca" name="marca" required="" autocomplete="off">
+                        <label for="marca">Marca</label>
+                    </div>
+                    <div class="inputGroup">
+                        <input type="text" id="modelo" name="modelo" required="" autocomplete="off">
+                        <label for="modelo">Modelo</label>
+                    </div>
+                </div>
+                <div class="addCarro">
+                    <button type="submit" id="adicionarCarro" class="btnAddCarro">
+                        Adicionar Carro
+                    </button>
+                </div>
+            </form>
+            <button id="close-modal"></button>
+        </dialog>
+    </main>
+    <div class="banner-right">
+        <img src="../src/assets/images/banner-right.jpg" alt="banner-right" class="imgBannerRight">
+    </div>
+    <footer>
+        <p>Criado por <a href="https://github.com/LucasHCOliveira7?tab=repositories" target="_blank"><abbr title="Acessar GitHub">Lucas Henrique</abbr></a>, elaborado na disciplina de Laboratório de Desenvolvimento em BD III do curso de <a href="https://fatecsjc-prd.azurewebsites.net/curso_bd" target="_blank"><abbr title="Informações do curso">Banco de Dados</abbr></a> da <a href="https://fatecsjc-prd.azurewebsites.net/" target="_blank"><abbr title="Página da instituição">FATEC-SJC</abbr></a> no 3º semestre.</p>
+    </footer>
+
+    <script src="../src/utils/exibir-lista-carros.js"></script>
+    <script src="../src/utils/abrir-modal.js"></script>
+    <script src="../src/utils/adicionar-carro.js"></script>
+    <script src="../src/utils/editar-carro.js"></script>
+    <script src="../src/utils/excluir-carro.js"></script>
+</body>
+</html>
