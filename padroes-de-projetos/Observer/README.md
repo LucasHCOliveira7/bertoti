@@ -1,6 +1,6 @@
 <div align="center">
 
 # Diagrama do Observer
-![observer drawio](https://github.com/user-attachments/assets/55d95c98-9519-4d55-a6a7-ab2024bac988)
+![observer drawio](https://github.com/user-attachments/assets/e798a03c-4b76-441c-9fa8-60b15242d50e)
 
 </div>
