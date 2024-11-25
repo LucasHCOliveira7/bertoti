@@ -2212,39 +2212,39 @@ useSSL=false
   <table>
     <tr>
       <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
+      <th width="600px">Classificação</th>
     </tr>
     <tr>
       <td>HTML5</td>
-      <td align="center">★★★★★☆</td>
+      <td>Possuo domínio avançado de HTML5, sendo capaz de estruturar páginas web seguindo as melhores práticas de semântica e acessibilidade. Continuo aprimorando minhas habilidades em situações mais complexas.</td>
     </tr>
     <tr>
       <td>CSS3</td>
-      <td align="center">★★★★☆☆</td>
+      <td>Tenho um bom entendimento de CSS3, sendo capaz de estilizar páginas e aplicar conceitos de responsividade. Estou desenvolvendo mais habilidade em técnicas avançadas, como animações e pré-processadores.</td>
     </tr>
     <tr>
       <td>JavaScript</td>
-      <td align="center">★★★☆☆☆</td>
+      <td>Tenho conhecimento intermediário de JavaScript, compreendendo conceitos básicos e algumas bibliotecas. Ainda estou aprimorando minha capacidade de escrever códigos mais otimizados e lidar com aplicações mais complexas.</td>
     </tr>
     <tr>
       <td>Vue.js</td>
-      <td align="center">★★★☆☆☆</td>
+      <td>Já consigo utilizar Vue.js para desenvolver aplicações interativas e dinâmicas, mas ainda estou fortalecendo minha experiência com funcionalidades avançadas, como Vuex e roteamento.</td>
     </tr>
     <tr>
       <td>ClickUp</td>
-      <td align="center">★★★★☆☆</td>
+      <td>Tenho boa habilidade com o ClickUp, usando a ferramenta para organização de tarefas e acompanhamento de projetos. Continuo explorando formas mais eficientes de usar automações e relatórios.</td>
     </tr>
     <tr>
       <td>Figma</td>
-      <td align="center">★★★★☆☆</td>
+      <td>Utilizo o Figma de maneira eficiente para prototipar e criar interfaces atrativas e funcionais. Ainda estou aprofundando meus conhecimentos em funcionalidades mais avançadas da ferramenta.</td>
     </tr>
     <tr>
       <td>Visual Studio Code</td>
-      <td align="center">★★★☆☆☆</td>
+      <td>Tenho uma boa base para usar o VS Code como minha principal IDE para desenvolvimento frontend, mas continuo explorando configurações e extensões mais específicas para aumentar minha produtividade.</td>
     </tr>
     <tr>
       <td>Postman</td>
-      <td align="center">★★★☆☆☆</td>
+      <td>Sei utilizar o Postman para testar e documentar APIs, mas ainda estou desenvolvendo fluência em funcionalidades avançadas, como criação de scripts e coleções complexas.</td>
     </tr>
   </table>
 
@@ -2252,23 +2252,23 @@ useSSL=false
   <table>
     <tr>
       <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
+      <th width="600px">Classificação</th>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td align="center">★★★★☆☆</td>
+      <td>Sou proativo em buscar soluções e assumir responsabilidades, mas sigo aprimorando minha capacidade de antecipar problemas em contextos mais amplos e estratégicos.</td>
     </tr>
     <tr>
       <td>Autonomia e Visão de Negócio</td>
-      <td align="center">★★★★★★</td>
+      <td>Tenho alta autonomia para executar tarefas e alinhar decisões com os objetivos do projeto, entendendo bem como cada funcionalidade impacta o negócio como um todo.</td>
     </tr>
     <tr>
       <td>Comunicação e Colaboração</td>
-      <td align="center">★★★★☆☆</td>
+      <td>Comunico-me bem com a equipe e contribuo para um ambiente colaborativo, mas estou trabalhando para melhorar em contextos que exigem maior clareza e persuasão.</td>
     </tr>
     <tr>
       <td>Organização, Planejamento e Entrega</td>
-      <td align="center">★★★★★☆</td
+      <td>Tenho um bom planejamento e entrego tarefas dentro dos prazos acordados, sempre priorizando qualidade. Estou buscando melhorar em gestão de prioridades e adaptação a mudanças.</td
     </tr>
  </table>
 </details>
