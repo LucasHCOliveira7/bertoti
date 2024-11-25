@@ -1,6 +1,6 @@
 <div align="center">
 
 # Diagrama do Composite
-![composite drawio](https://github.com/user-attachments/assets/861b72ca-e4c4-4217-ba46-d9cde10d3033)
+![composite drawio](https://github.com/user-attachments/assets/656f205e-5b51-4775-b328-df71b64fc7e1)
 
 </div>
